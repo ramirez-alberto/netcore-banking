@@ -1,0 +1,16 @@
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.exe
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.deps.json
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.runtimeconfig.json
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.runtimeconfig.dev.json
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.dll
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\ref\netcore-banking.dll
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\bin\Debug\net5.0\netcore-banking.pdb
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.csproj.AssemblyReference.cache
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.AssemblyInfoInputs.cache
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.AssemblyInfo.cs
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.csproj.CoreCompileInputs.cache
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.dll
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\ref\netcore-banking.dll
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.pdb
+E:\Users\betun\Mis desarrollos\repos\netcore-banking\obj\Debug\net5.0\netcore-banking.genruntimeconfig.cache
